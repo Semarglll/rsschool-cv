@@ -24,9 +24,9 @@ Also it would be awesome if you add links to source code)
 
 ### Education
 [*My Codeacademy achievements*](https://www.codecademy.com/users/Semarglll/achievements)
-
+  
 International internship at the University of Putra Malaysia. 07/10/2013-23/10/2013
-
+  
 Scrum Lego Training, Nur-sultan. 09/07/2019
 
 ### English
