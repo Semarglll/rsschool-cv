@@ -1,6 +1,8 @@
 # Vladimir Naiberger
 ### Junior JavaScript Developer 
 
+![The face](/face.jpg)
+
 #### **Contacts:**
 ##### Email: Semarglll@gmail.com
 ##### Telegram: @semarglll
