@@ -1,7 +1,7 @@
 # Vladimir Naiberger
 ### Junior JavaScript Developer 
 
-![The face](/face.jpg)
+![The face](/Face.jpg)
 
 #### **Contacts:**
 ##### Email: Semarglll@gmail.com
