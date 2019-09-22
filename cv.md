@@ -15,15 +15,15 @@ learning new things from everywhere etc.).
 
 ### Skills
   
-  -Programming languages
-    -C++ (basic long time ago)
-    -Html (basic)
-    -CSS (basic)
-    -XML (basic)
-    -SQL (basic)
-  -OS, databases etc.
-    -MySQL (basic)
-    -git (basic)
+-Programming languages
+  -C++ (basic long time ago)
+  -Html (basic)
+  -CSS (basic)
+  -XML (basic)
+  -SQL (basic)
+-OS, databases etc.
+  -MySQL (basic)
+  -git (basic)
 
 ### Code examples (LATEST)
   Some code example from my task at the Codeacademy:
