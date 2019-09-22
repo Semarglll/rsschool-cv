@@ -9,9 +9,7 @@
 ##### [*My GitHub*](https://github.com/Semarglll)
 
 ### Summary
-(your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+I graduated in 2013 at S. Seifullin Kazakh AgroTechnical university in the department of computer engineering and software. Then I worked for several years in the field of civil engineering. As a Senior engineer of the production and technical department. Received a second higher education. And I realized that I did not want to be an civil engineer in construction. Then I decided to return to IT. I considered the vacancy of a Software testing engineer. But I realized that I can not only test, but also create code. And signed up for an RSS training.
 
 ### Skills
   
