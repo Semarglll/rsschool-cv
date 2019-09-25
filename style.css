@@ -1,0 +1,71 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 8px;
+  padding: 0;  
+  }
+a {
+  text-decoration: none;
+}
+.main-page {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1024px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.header {
+  margin: 25px 0 0;
+  font-size: 40px;
+}
+.header-sub {
+  margin: 20px 0 20px;
+  font-size: 30px;
+}
+.header-sub-sub {
+  margin: 15px 0 15px;
+  font-size: 20px;
+}
+.about {
+  display: flex;
+  justify-content: center;
+}
+.about-face {
+  width: 40%;
+}
+.about-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.list {
+    padding: 20px;
+    border: 4px solid LightGreen;
+    border-radius: 8px;
+  }
+.element-name {
+  font-size: 25px;
+  font-weight: bold;
+}
+.element {
+  font-size: 16px;
+}
+.code {
+  padding: 13px;
+  border: 4px solid limeGreen;
+  border-radius: 8px;
+  background: PaleGreen;
+  color: DarkGreen;
+  }
+.summary,
+.skills,
+.education,
+.experience,
+.languages {
+  font-size: 20px;
+  }
+.languages-end {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
