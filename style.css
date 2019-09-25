@@ -63,8 +63,9 @@ a {
 .education,
 .experience,
 .languages {
-  font-size: 20px
+  font-size: 20px;
   }
 .languages-end {
+  font-size: 20px;
   margin-bottom: 50px;
 }
